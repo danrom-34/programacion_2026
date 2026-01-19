@@ -1,1 +1,6 @@
-# programacion_2026
+#include <iostream>
+
+int main()(
+    std::cout << "Hello World!" << std
+    return 0;
+)
