@@ -3,8 +3,6 @@
 ## 1. ¿Qué es una clase?
 Una clase es una plantilla o modelo que define las características (atributos)
 y comportamientos (métodos) que tendrán los objetos creados a partir de ella.
-En programación orientada a objetos, una clase permite organizar y estructurar
-el código de manera lógica.
 
 ## 2. ¿Qué es el encapsulamiento?
 El encapsulamiento es un principio de la programación orientada a objetos que
