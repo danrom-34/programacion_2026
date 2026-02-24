@@ -1,4 +1,4 @@
-# Examen 01 – Programación Orientada a Objetos
+# Examen 01
 
 ## 1. ¿Qué es una clase?
 Una clase es una plantilla o modelo que define las características (atributos)
